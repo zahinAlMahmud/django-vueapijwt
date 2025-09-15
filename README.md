@@ -1,1 +1,2 @@
 # django-vueapijwt
+# django-vueapijwt
